@@ -1,12 +1,12 @@
 ## How-To
 
-VR-Funding is an investment hub where young entrepreneurs can access VR-Funding, post their startup ideas, gain funding, and excel with their projects!
+How-To is a social application where users can share their "Life Hacks!". If they have a high approval rating, they might appear on the popular page.
 
 ## Motivation
-Gaining investors is hard. With the internet it makes it so much easier to access investors around the globe who are dying to invest in startups. We appeal to Venture Capitalists and Angel Investors. They can find deals they like, invest and become part of the business! Simple as that!
+Most people want an easier life, or "hacks" that can help. With our How-To platform, users can share their "Life Hacks!". If they have a high approval rating, they might appear on the popular page. Post anything from "How to cook the best egg", or "Best way to clean under a dresser". The goal of this application is to help people around the globe find the path of least-resistance in day to day life. 
 
 ## Code style
-Javascript standard style using React, Postgres, Styling Libraries and more.
+Javascript standard style using React,SQLite3, Styling Libraries and more.
 
 ## Tech/framework used
 
@@ -22,5 +22,5 @@ Javascript standard style using React, Postgres, Styling Libraries and more.
 #### Testing Libraries
 
 
-## What makes Coin Tracker stand out?
-Coin tracker is a beginner friendly investing platform. It solves the problem that many startup owners face, funding. Gaining investors is hard but with VR-Fudning it doesnt have to be! Become part of the team and find easy access to investors around the globe who are dying to invest in startups. We appeal to Venture Capitalists and Angel Investors. They can find deals they like, invest and become part of the business! Simple as that!
+## What makes How-To stand out?
+How-To is a beginner friendly application with a clean User-Interface designed to help make peoples life easier. users can share their "Life Hacks!". If they have a high approval rating, they might appear on the popular page. Post anything from "How to cook the best egg", or "Best way to clean under a dresser". The goal of this application is to help people around the globe find the path of least-resistance in day to day life. 
